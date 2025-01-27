@@ -10,7 +10,7 @@ Python notebook for Exploratory Data Analysis (EDA). This notebook includes:
 
 **Shreyas_Kumbhar_EDA.pdf**
 
-    - PDF export of the EDA notebook for documentation purposes.
+- PDF export of the EDA notebook for documentation purposes.
 
 
 **Shreyas_Kumbhar_Clustering.ipynb**
@@ -24,7 +24,7 @@ Contains the Python notebook for customer clustering. The notebook covers:
 
 **Shreyas_Kumbhar_Clustering.pdf**
  
-    - PDF export of the clustering notebook for easy reference. 
+- PDF export of the clustering notebook for easy reference. 
 
 
 **Shreyas_Kumbhar_Lookalike.ipynb** 
